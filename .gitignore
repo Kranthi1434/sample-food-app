@@ -1,4 +1,5 @@
 config.js
 #test.txt
 *.txt
+!test4.txt
 temp/
