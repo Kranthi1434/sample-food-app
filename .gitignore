@@ -1,2 +1,3 @@
 config.js
-test.txt
+#test.txt
+*.txt
